@@ -5,7 +5,7 @@ Please clone and install dependencies before attending it.
 
 ### Steps
 ```
-1. git clone 
+1. git clone https://github.com/plxity/Babel-plugin-talk.git
 2. npm install
 ```
 
