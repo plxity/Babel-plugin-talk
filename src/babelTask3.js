@@ -6,7 +6,7 @@ const types = require('@babel/types');
 
 const code = `
  const sum = (a,b) => { 
-    console.log("hello");
+    console.log(a,b);
     return 1+ 2;
 }
 `

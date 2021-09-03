@@ -9,7 +9,7 @@ Please clone and install dependencies before attending it.
 2. npm install
 ```
 
-## Tasks 
+### Tasks 
 
 All the tasks will be done with the help of babel-plugin.
 
@@ -19,5 +19,9 @@ All the tasks will be done with the help of babel-plugin.
 4. Making a new syntax very similar to ```pair``` in C++.
 
 
-## How to reach out to me?
-In case you have any doubts or confusion, you can reach out to me on Twitter. Will be happy to solve your doubts.
+### How to reach out to me?
+In case you have any doubts or confusion, you can reach out to me on [Twitter](https://twitter.com/apoorv_taneja). Will be happy to solve your doubts.
+
+### Important Links
+- [Presentation](https://docs.google.com/presentation/d/1RuR08uun2Pt76lgMWZFtkndXAlcmhl1RXQ8HLQPCbGY/edit?usp=sharing)
+- [Babel Handbook](https://github.com/jamiebuilds/babel-handbook)

@@ -8,3 +8,4 @@ const code = `
   }
 `
 console.log(parser.parse(code));
+

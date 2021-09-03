@@ -1,11 +1,14 @@
 // Task 1
-// In this task we'll change the 'n' to any other variable using path properties.
+// In this task we'll be removing console.log() from our code with the help of babel plugin.
+
 const babel = require('@babel/core');
 
-const code =  `
-  function square(n){
-    return n * n;
-  }
+
+// Sample piece of code which we'll use
+const code = `function sum (a,b) {
+    console.log(a,b);
+    return a+b;
+}
 `
 
 
@@ -16,4 +19,3 @@ const output  = babel.transformSync(code,{
 })
 
 console.log(output.code);
-
